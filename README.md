@@ -12,14 +12,17 @@ I'm a master student of Electrical Engineering at National Taiwan University. Cu
 
 <code><a href = "https://code.visualstudio.com/"><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code> <code><a href = "https://git-scm.com/"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code> <code><a href = "https://git-scm.com/"><img height="80" src="https://jupyter.org/assets/main-logo.svg"></a></code> <code><a href = "https://git-scm.com/"><img height="80" src="https://pbs.twimg.com/profile_images/614071524853616640/L7hkgWm7.png"></a></code> 
 
+- TWCC
+- Google Cloud Platform
 
-## Packages
+## Familiar Packages
 
 - Python
   - Keras
   - Pandas
   - Numpy 
   - Scipy 
+  - OpenCV
 - Julia
   - DifferentialEquations.jl
   - Catalyst.jl
