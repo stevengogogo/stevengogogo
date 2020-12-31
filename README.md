@@ -18,21 +18,16 @@ I'm a master student of Electrical Engineering at National Taiwan University. Cu
 ## Familiar Packages
 
 - Python
-  - Keras
-  - Pandas
-  - Numpy 
-  - Scipy 
-  - OpenCV
+  Pandas, Numpy, Scipy, OpenCV, Keras
+  
 - Julia
-  - DifferentialEquations.jl
-  - Catalyst.jl
-  - DataFrames.jl
-  - Optim.jl
-  - Parameters.jl
-  - Distributed.jl
-  - PkgTemplates.jl
-  - LinSolve.jl
-  - FindSteadyStates.jl
+  DifferentialEquations.jl, Catalyst.jl, DataFrames.jl, Optim.jl, Parameters.jl, Distributed.jl, PkgTemplates.jl, LinSolve.jl, FindSteadyStates.jl
+  
+ 
+ 
+
+
+  
 
 
 <!--
