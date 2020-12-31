@@ -18,6 +18,8 @@ I'm a master student of Electrical Engineering at National Taiwan University. Cu
 - Python
   - Keras
   - Pandas
+  - Numpy 
+  - Scipy 
 - Julia
   - DifferentialEquations.jl
   - Catalyst.jl
