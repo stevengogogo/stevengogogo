@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-I'm a master student of Electrical Engineering at National Taiwan University. Currently working on biological modeling with Julia Programming Language.
+I'm an intern at Pumas-AI, Inc. in 2021. I have received bachelor and master degree at Electrical Engineering of National Taiwan University. Research interests include **Scientific Machine learning, Biological Systems and Scientific Computing**. 
 
+**[I am looking for Phd position in Fall2021] Please conatact me via shaotingchiu.apply@gmail.com**
+
+- Here is my latest CV: [CV_ShaoTingChiu.pdf](https://stevengogogo.github.io/ResumeCustomized/CV_ShaoTingChiu.pdf)
 
 
 ## Languages 
 
-<code><a href = "https://www.python.org/"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code><code><a href = "https://julialang.org/"><img height="80" width="80" src="https://docs.julialang.org/en/v1/assets/logo.svg"></a></code><code><a href = "https://www.latex-project.org/"><img height="80" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></a></code> 
+C, Julia, Python, Latex
 
-## Tools 
-
-<code><a href = "https://code.visualstudio.com/"><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code> <code><a href = "https://git-scm.com/"><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code> <code><a href = "https://jupyter.org/"><img height="80" src="https://jupyter.org/assets/main-logo.svg"></a></code>
-
-- TWCC
-- Google Cloud Platform
 
 ## Familiar Packages
 
