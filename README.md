@@ -4,7 +4,7 @@ I'm an intern at Pumas-AI, Inc. in 2021. I have received bachelor and master deg
 
 **[I am looking for Phd position in Fall2021]** 
 
-Please conatact me via shaotingchiu.apply@gmail.com if you are interested.
+Please conatact me via shaotingchiu.apply@gmail.com or d10945007@ntu.edu.tw if you are interested.
 
 - Here is my latest CV: [CV_ShaoTingChiu.pdf](https://stevengogogo.github.io/ResumeCustomized/CV/CV_ShaoTingChiu.pdf)
 - My personal website: [Resume.io (In Progress, Powered by StaticWebPages.jl)](https://stevengogogo.github.io/Resume.io/)
