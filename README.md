@@ -14,17 +14,6 @@ Please conatact me via d10945007@ntu.edu.tw if you are interested.
 C, Julia, Python, Latex
 
 
-## Familiar Packages
-
-### Python
-> Pandas, Numpy, Scipy, OpenCV, Keras
-  
-### Julia
-> DifferentialEquations.jl, Catalyst.jl, DataFrames.jl, Optim.jl, Parameters.jl, Distributed.jl, PkgTemplates.jl, LinSolve.jl, FindSteadyStates.jl
-  
- 
- 
-
 
   
 
