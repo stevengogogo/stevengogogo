@@ -2,7 +2,7 @@
 
 I'm an intern at Pumas-AI, Inc. in 2021. I have received bachelor and master degree at Electrical Engineering of National Taiwan University. Research interests include **Scientific Machine learning, Biological Systems and Scientific Computing**. 
 
-**[I am looking for Phd position in Fall2021]** 
+**[I am looking for Phd position starting in Fall2022]** 
 
 Please conatact me via d10945007@ntu.edu.tw if you are interested.
 
