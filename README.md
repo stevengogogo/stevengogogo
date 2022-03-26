@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```
+I am currently reporting military conscription of Taiwan Army [March-June, 2022]
+```
+
 I'm an intern at Pumas-AI, Inc. in 2021. I have received bachelor and master degree at Electrical Engineering of National Taiwan University. Research interests include **Scientific Machine learning, Biological Systems and Scientific Computing**. 
 
 **[I am looking for Phd position starting in Fall2022]** 
