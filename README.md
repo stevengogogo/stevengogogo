@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 ```
-I am currently reporting military conscription of Taiwan Army [March-June, 2022]
+I am currently a Ph.D. student of Electrical Engineering at Texas A&M University.
 ```
 
-I'm an intern at Pumas-AI, Inc. in 2021. I have received bachelor and master degree at Electrical Engineering of National Taiwan University. Research interests include **Scientific Machine learning, Biological Systems and Scientific Computing**. 
-
-**[I am looking for Phd position starting in Fall2022]** 
-
-Please conatact me via d10945007@ntu.edu.tw if you are interested.
 
 - Here is my latest CV: [CV_ShaoTingChiu.pdf](https://stevengogogo.github.io/ResumeCustomized/CV/CV_ShaoTingChiu.pdf)
 - My personal website: [Resume.io](https://stevengogogo.github.io/Resume.io/)
@@ -17,9 +12,6 @@ Please conatact me via d10945007@ntu.edu.tw if you are interested.
 
 C, Julia, Python, Latex
 
-
-
-  
 
 
 <!--
