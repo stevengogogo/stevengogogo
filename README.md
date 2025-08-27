@@ -25,7 +25,7 @@ Publication: Featured in the NeurIPS 2024 Workshop on Foundation Models for Scie
 An interpretable and efficient neural PDE solver that uses a basis-expansion neural network architecture. It requires significantly fewer parameters than conventional PINNs, yielding faster training and better generalization.
 
 ### Free RBF-KAN
-A new approach to Kolmogorov-Arnold Networks (KANs) with adaptive radial basis functions. This work improves accuracy by 10x and offers a 2x speedup in fluid simulations compared to the original KAN.
+A new approach to Kolmogorov-Arnold Networks (KANs) with radial basis functions. This work improves accuracy by 10x and offers a 2x speedup in PDE simulations compared to the original KAN.
 
 ## Publications & Patents
 
