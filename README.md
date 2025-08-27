@@ -5,8 +5,7 @@ I am currently a Ph.D. student of Electrical Engineering at Texas A&M University
 ```
 
 
-- Here is my latest CV: [CV_ShaoTingChiu.pdf](https://stevengogogo.github.io/ResumeCustomized/CV/CV_ShaoTingChiu.pdf)
-- My personal website: [Resume.io](https://stevengogogo.github.io/Resume.io/)
+- Here is my latest CV: [CV_ShaoTingChiu.pdf]([https://stevengogogo.github.io/ResumeCustomized/CV/CV_ShaoTingChiu.pdf](https://github.com/user-attachments/files/22011507/Chiu_Shao-Ting_2026_ece.pdf))
 
 ## Languages 
 
