@@ -1,6 +1,6 @@
 ## Hi, I'm Shao-Ting "Steven" Chiu 👋
 
-- Here is my latest CV: [CV_ShaoTingChiu.pdf](https://github.com/user-attachments/files/22011507/Chiu_Shao-Ting_2026_ece.pdf)
+- Here is my latest CV: [CV_ShaoTingChiu.pdf](https://github.com/user-attachments/files/22495505/CV_ShaoTingChiu_brief.pdf)
 - I'm a Ph.D. student in Computer Engineering at Texas A&M University with a passion for physics-informed machine learning (PIML), operator learning, and LLMs for Partial Differential Equations (PDEs). My research focuses on developing efficient, interpretable, and scalable neural network architectures to solve complex scientific problems.
 
 I have experience in:
